@@ -11,16 +11,17 @@ Data distribution shift refers to the phenomenon in supervised learning when the
 </p>
 
 
+
 ##### Table of Contents
 
-1. [Papers](#Distribution Shift papers)  
+1. [Papers](#Distribution-Shift-papers)  
 2. [Code](#Code)
 3. [datasets](#Datasets)
 4. [Tutorials](#Tutorials)
 5. [Researchers](#Researchers)
 
 
-## Distribution Shift papers
+## Papers
 
 - **Enhancing Model Robustness and Fairness with Causality: A Regularization Approach**
   - [[Paper]](https://aclanthology.org/2021.cinlp-1.3.pdf)
