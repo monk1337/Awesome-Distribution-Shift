@@ -18,3 +18,9 @@ Data distribution shift refers to the phenomenon in supervised learning when the
 3. [datasets](#Datasets)
 4. [Tutorials](#Tutorials)
 5. [Researchers](#Researchers)
+
+
+- **agarwal22b.pdf**
+  - [[Paper]](https://proceedings.mlr.press/v178/agarwal22b/agarwal22b.pdf)
+- **2202.08944.pdf**
+  - [[Paper]](https://arxiv.org/pdf/2202.08944.pdf)
