@@ -19,10 +19,49 @@ Data distribution shift refers to the phenomenon in supervised learning when the
 4. [Tutorials](#Tutorials)
 5. [Researchers](#Researchers)
 
+
+## Distribution Shift papers
+
 - **Enhancing Model Robustness and Fairness with Causality: A Regularization Approach**
   - [[Paper]](https://aclanthology.org/2021.cinlp-1.3.pdf)
 - **Does Robustness Improve Fairness? Approaching Fairness with Word Substitution Robustness Methods for Text Classification**
   - [[Paper]](https://aclanthology.org/2021.findings-acl.294.pdf)
+- **[2001.08103] Secure and Robust Machine Learning for Healthcare: A Survey**
+  - [[Paper]](https://arxiv.org/abs/2001.08103)
+- **[2103.08291] Robust Machine Learning in Critical Care -- Software Engineering and Medical Perspectives**
+  - [[Paper]](https://arxiv.org/abs/2103.08291)
+- **[2108.00402] Style Curriculum Learning for Robust Medical Image Segmentation**
+  - [[Paper]](https://arxiv.org/abs/2108.00402)
+- **[2108.12242] Deep learning models are not robust against noise in clinical text**
+  - [[Paper]](https://arxiv.org/abs/2108.12242)
+- **[2210.00589] Uncertainty estimations methods for a deep learning model to aid in clinical decision-making -- a clinician's perspective**
+  - [[Paper]](https://arxiv.org/abs/2210.00589)
+- **[2209.15042] Generalizability of Adversarial Robustness Under Distribution Shifts**
+  - [[Paper]](https://arxiv.org/abs/2209.15042)
+- **[2209.09423] Fairness and robustness in anti-causal prediction**
+  - [[Paper]](https://arxiv.org/abs/2209.09423)
+- **[2209.09631] De-Identification of French Unstructured Clinical Notes for Machine Learning Tasks**
+  - [[Paper]](https://arxiv.org/abs/2209.09631)
+- **[2207.00769] Test-time Adaptation with Calibration of Medical Image Classification Nets for Label Distribution Shift**
+  - [[Paper]](https://arxiv.org/abs/2207.00769)
+- **Performance deterioration of deep neural networks for lesion classification in mammography due to distribution shift: an analysis based on artificially created distribution shift**
+  - [[Paper]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11314/2551346/Performance-deterioration-of-deep-neural-networks-for-lesion-classification-in/10.1117/12.2551346.short?SSO=1)
+- **[2109.01668] How Reliable Are Out-of-Distribution Generalization Methods for Medical Image Segmentation?**
+  - [[Paper]](https://arxiv.org/abs/2109.01668)
+- **[1910.13681] The Domain Shift Problem of Medical Image Segmentation and Vendor-Adaptation by Unet-GAN**
+  - [[Paper]](https://arxiv.org/abs/1910.13681)
+- **Secure and Robust Machine Learning for Healthcare: A Survey**
+  - [[Paper]](https://core.ac.uk/download/pdf/328760438.pdf)
+- **AIMI Research Meeting: Rethink Robustness of Deep Learning Models for Medical Image Analysis - Yuyin Zhou, PhD**
+  - [[Paper]](https://aimi.stanford.edu/events/research-meeting/aimi-research-meeting-rethink-robustness-deep-learning-models-medical-image)
+- **Identification of robust deep neural network models of longitudinal clinical measurements**
+  - [[Paper]](https://www.nature.com/articles/s41746-022-00651-4)
+- **Robustness of AI-based prognostic and systems health management - ScienceDirect**
+  - [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1367578821000195)
+- **The impact of domain shift on the calibration of fine-tuned models**
+  - [[Paper]](https://openreview.net/forum?id=dZ7MVojplmi)
+- **[2110.01955] Distribution Mismatch Correction for Improved Robustness in Deep Neural Networks**
+  - [[Paper]](https://arxiv.org/abs/2110.01955)
 - **agrawal20a.pdf**
   - [[Paper]](http://proceedings.mlr.press/v126/agrawal20a/agrawal20a.pdf)
 - **nestor19a.pdf**
@@ -127,42 +166,6 @@ Data distribution shift refers to the phenomenon in supervised learning when the
   - [[Paper]](https://openreview.net/pdf?id=o4JWdxYTjL8)
 - **pdf**
   - [[Paper]](https://openreview.net/pdf?id=hNMOSUxE8o6)
-- **[2001.08103] Secure and Robust Machine Learning for Healthcare: A Survey**
-  - [[Paper]](https://arxiv.org/abs/2001.08103)
-- **[2103.08291] Robust Machine Learning in Critical Care -- Software Engineering and Medical Perspectives**
-  - [[Paper]](https://arxiv.org/abs/2103.08291)
-- **[2108.00402] Style Curriculum Learning for Robust Medical Image Segmentation**
-  - [[Paper]](https://arxiv.org/abs/2108.00402)
-- **[2108.12242] Deep learning models are not robust against noise in clinical text**
-  - [[Paper]](https://arxiv.org/abs/2108.12242)
-- **[2210.00589] Uncertainty estimations methods for a deep learning model to aid in clinical decision-making -- a clinician's perspective**
-  - [[Paper]](https://arxiv.org/abs/2210.00589)
-- **[2209.15042] Generalizability of Adversarial Robustness Under Distribution Shifts**
-  - [[Paper]](https://arxiv.org/abs/2209.15042)
-- **[2209.09423] Fairness and robustness in anti-causal prediction**
-  - [[Paper]](https://arxiv.org/abs/2209.09423)
-- **[2209.09631] De-Identification of French Unstructured Clinical Notes for Machine Learning Tasks**
-  - [[Paper]](https://arxiv.org/abs/2209.09631)
-- **[2207.00769] Test-time Adaptation with Calibration of Medical Image Classification Nets for Label Distribution Shift**
-  - [[Paper]](https://arxiv.org/abs/2207.00769)
-- **Performance deterioration of deep neural networks for lesion classification in mammography due to distribution shift: an analysis based on artificially created distribution shift**
-  - [[Paper]](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11314/2551346/Performance-deterioration-of-deep-neural-networks-for-lesion-classification-in/10.1117/12.2551346.short?SSO=1)
-- **[2109.01668] How Reliable Are Out-of-Distribution Generalization Methods for Medical Image Segmentation?**
-  - [[Paper]](https://arxiv.org/abs/2109.01668)
-- **[1910.13681] The Domain Shift Problem of Medical Image Segmentation and Vendor-Adaptation by Unet-GAN**
-  - [[Paper]](https://arxiv.org/abs/1910.13681)
-- **Secure and Robust Machine Learning for Healthcare: A Survey**
-  - [[Paper]](https://core.ac.uk/download/pdf/328760438.pdf)
-- **AIMI Research Meeting: Rethink Robustness of Deep Learning Models for Medical Image Analysis - Yuyin Zhou, PhD**
-  - [[Paper]](https://aimi.stanford.edu/events/research-meeting/aimi-research-meeting-rethink-robustness-deep-learning-models-medical-image)
-- **Identification of robust deep neural network models of longitudinal clinical measurements**
-  - [[Paper]](https://www.nature.com/articles/s41746-022-00651-4)
-- **Robustness of AI-based prognostic and systems health management - ScienceDirect**
-  - [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1367578821000195)
-- **The impact of domain shift on the calibration of fine-tuned models**
-  - [[Paper]](https://openreview.net/forum?id=dZ7MVojplmi)
-- **[2110.01955] Distribution Mismatch Correction for Improved Robustness in Deep Neural Networks**
-  - [[Paper]](https://arxiv.org/abs/2110.01955)
 - **Multi-Domain Ensembles for Domain Generalization**
   - [[Paper]](https://openreview.net/forum?id=mmlix0UucTh)
 - **Optimal Representations for Covariate Shifts**
